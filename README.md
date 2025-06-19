@@ -453,4 +453,27 @@ This component requires a modern browser that supports:
 - Modern form validation APIs
 
 
-Buy me a coffe
+## Contributing
+
+We welcome contributions from the community! Whether it's bug reports, feature requests, or code contributions, please feel free to:
+
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request with detailed description
+
+Please ensure your code follows our style guidelines and includes appropriate tests.
+
+## License
+
+MIT License © developer-hub
+
+For detailed license information, see the [LICENSE file](https://github.com/Cristian-301/npmReactReusableForm/blob/main/LICENSE) in the repository.
+
+---
+
+**Questions or Issues?** Check out our [GitHub Issues](https://github.com/Cristian-301/npmReactReusableForm/issues) or start a [Discussion](https://github.com/Cristian-301/npmReactReusableForm/discussions).
+
+
+License [MIT](https://github.com/Cristian-301/npmReactReusableForm/blob/main/LICENSE)
+
+[Buy me a coffe](coff.ee/CristianMihaiT)
