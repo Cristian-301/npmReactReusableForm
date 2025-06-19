@@ -452,5 +452,3 @@ This component requires a modern browser that supports:
 - File API (for file uploads)
 - Modern form validation APIs
 
-
-Buy me a coffe
