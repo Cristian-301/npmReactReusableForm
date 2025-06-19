@@ -476,4 +476,4 @@ For detailed license information, see the [LICENSE file](https://github.com/Cris
 
 License [MIT](https://github.com/Cristian-301/npmReactReusableForm/blob/main/LICENSE)
 
-[Buy me a coffe](coff.ee/CristianMihaiT)
+[Buy me a coffe](https://buymeacoffee.com/cristianmihait)
