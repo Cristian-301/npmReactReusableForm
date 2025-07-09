@@ -5,7 +5,7 @@ A dynamic and reusable form component built with `react-hook-form` and validated
 ## Installation
 
 ```bash
-npm install react-reusable-form-component @hookform/resolvers yup
+npm i @developer-hub/react-reusable-form @hookform/resolvers yup
 ```
 
 > **Note**: This component requires `react-hook-form`, `@hookform/resolvers`, and `yup` as peer dependencies.
